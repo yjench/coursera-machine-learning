@@ -1,5 +1,13 @@
-# Lecture slides and personal notes
-*.pdf
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
 
-# Misc
-.ipynb_checkpoints                      
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# macOS
+.DS_store
+
+# PDF files
+*.pdf                   
