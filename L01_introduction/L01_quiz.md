@@ -25,11 +25,11 @@
 4. Some of the problems below are best addressed using a supervised learning algorithm, and the others with an unsupervised learning algorithm. Which of the following would you apply supervised learning to? In each case, assume some appropriate dataset is available for your algorithm to learn from. (Select all that apply.)
 
    - [x] In farming, given data on crop yields over the last 50 years, learn to predict next year's crop yields.
-- [x] Examine a web page, and classify whether the content on the web page should be considered "child friendly" (e.g., non-pornographic, etc.) or "adult."
+   - [x] Examine a web page, and classify whether the content on the web page should be considered "child friendly" (e.g., non-pornographic, etc.) or "adult."
    - [ ] Given data on how 1000 medical patients respond to an experimental drug (such as effectiveness of the treatment, side effects, etc.), discover whether there are different categories or "types" of patients in terms of how they respond to the drug, and if so what these categories are.
-- [ ] Given a large dataset of medical records from patients suffering from heart disease, try to learn whether there might be different clusters of such patients for which we might tailor separate treatments.
-   
-   
+   - [ ] Given a large dataset of medical records from patients suffering from heart disease, try to learn whether there might be different clusters of such patients for which we might tailor separate treatments.
+
+ 
 
 5. Which of these is a reasonable definition of machine learning?
    - [x] Machine learning is the field of study that gives computers the ability to learn without being explicitly programmed.
